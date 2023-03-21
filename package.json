@@ -1,0 +1,15 @@
+{
+  "name": "redacted_helper_bot",
+  "version": "1.0.0",
+  "description": "Little bot for a server. It can manage channel with some commands and delete the last few messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bismuth10K",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
