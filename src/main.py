@@ -12,7 +12,7 @@ class MyClient(discord.Client):
 			return
 
 		if message.content.startswith('hello'):
-			await message.channel.send("Hello {0.author.mention}".format(message))
+			await message.channel.send("Hello {0.author.mention} you asshole".format(message))
 
 
 if __name__ == '__main__':
